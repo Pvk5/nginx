@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: agent1/nginxrunvm-1
+pool: agent1
 
 steps:
 - script: echo Hello, world!
